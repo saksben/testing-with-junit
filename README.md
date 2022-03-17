@@ -15,5 +15,7 @@ It is recommended to use an IDE like IntelliJ or Eclipse if following along with
 
 ## Running Tests
 
-'mvn clean test' from the project root directory should compile the application and run all unit tests.
+`mvn clean test` 
+
+from the project root directory should compile the application and run all unit tests.
 
