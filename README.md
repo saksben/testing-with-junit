@@ -11,10 +11,9 @@ This is the example codebase for the Pluralsight course: Java SE 17 Unit Testing
 
 The example project uses JUnit 5, but this is declared as a maven project dependency, so does not need to be downloaded separately.
 
-## Running ERServer
+It is recommended to use an IDE like IntelliJ or Eclipse if following along with the course on your own box.
 
-You will need to use Maven at the command line or from your IDE to compile ERServer.  Once built, there is a Java main program that can be run.
+## Running Tests
 
-### Build ERServer
+'mvn clean test' from the project root directory should compile the application and run all unit tests.
 
-`mvn clean install` should compile and build ERServer.
