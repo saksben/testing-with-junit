@@ -6,7 +6,7 @@ This is the example codebase for the Pluralsight course: Java SE 17 Unit Testing
   * Java 17 or higher is required to compile and build the application.
       *  [Adopt Open JDK] (https://openjdk.java.net/projects/jdk/17/)
       *  [Oracle JDK] (https://www.oracle.com/java/technologies/java-se-glance.html)
-  * [Maven 3.5+]( https://maven.apache.org/install.html) is also required.
+  * [Maven 3.8+]( https://maven.apache.org/download.cgi) is also required - although any Maven 3 or higher version will likely work.
   * A git client if you wish to clone the repository - otherwise just download the zip from this page.  Use the green code dropdown button to either clone or obtain a zip of the project.
   
 The example project uses JUnit 5, but this is declared as a maven project dependency, so does not need to be downloaded separately.
