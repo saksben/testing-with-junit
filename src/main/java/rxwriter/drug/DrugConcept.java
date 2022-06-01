@@ -9,7 +9,7 @@ public class DrugConcept {
     public final static DrugConcept OPIATES = new DrugConcept(new DrugClassification[]{
             DrugClassification.ANTIANXIETY,
             DrugClassification.ANALGESICS_NARCOTIC,
-            DrugClassification.NARCOTIC_ANTHISTAMINE});
+            DrugClassification.NARCOTIC_ANTIHISTAMINE});
 
     private final DrugClassification[] drugClassesInConcept;
 

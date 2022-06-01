@@ -12,7 +12,7 @@ public enum DrugClassification {
     NASAL_CORTICOSTEROIDS(301, "Nasal Corticosteroids"),
     ACE_INHIBITORS(6108, "ACE Inhibitors and ACE Inhibitor Combinations"),
     ANTIHYPERLIPIDEMICS(263, "Antihyperlipidemics"),
-    NARCOTIC_ANTHISTAMINE(338, "Narcotic Antitussive-Antihistamine Combinations"),
+    NARCOTIC_ANTIHISTAMINE(338, "Narcotic Antitussive-Antihistamine Combinations"),
     PLATELET_AGGREGATION_INHIBITORS(3530, "Platelet Aggregation Inhibitors and Combinations");
 
     private final int classificationCode;
